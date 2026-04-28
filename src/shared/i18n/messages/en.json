@@ -1,0 +1,19 @@
+{
+  "users": {
+    "title": "Users",
+    "empty": "No users found.",
+    "loading": "Loading users...",
+    "error": "Failed to load users.",
+    "fields": {
+      "name": "Name",
+      "email": "Email",
+      "role": "Role",
+      "createdAt": "Created"
+    },
+    "actions": {
+      "invite": "Invite user",
+      "edit": "Edit",
+      "delete": "Delete"
+    }
+  }
+}
